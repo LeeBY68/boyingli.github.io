@@ -8,27 +8,27 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 
 ## Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
 
-- TextSLAM: Visual SLAM with Planar Text Features<br>
+- **TextSLAM: Visual SLAM with Planar Text Features.**<br>
 **Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
 *IEEE International Conference on Robotics and Automation (ICRA). 2020*
 
-- StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation<br>
+- **StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation.**<br>
 **Boying Li\***, Yuan Huang\*, Zeyu Liu, Danping Zou, Wenxian Yu <br>
 *IEEE International Conference on Computer Vision (ICCV). 2021*
 
-- TextSLAM: Visual SLAM with Semantic Planar Text Features (Under review) <br>
+- **TextSLAM: Visual SLAM with Semantic Planar Text Features (Under review)** <br>
 **Boying Li**, Danping Zou, Yuan Huang, Xinghan Niu, Ling Pei, Wenxian Yu <br>
 *IEEE Transactions on Robotics or IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).* 
 
-- Ship Size Extraction for Sentinel-1 Images Based on Dual-Polarization Fusion and Nonlinear Regression: Push Error Under One Pixel. <br>
+- **Ship Size Extraction for Sentinel-1 Images Based on Dual-Polarization Fusion and Nonlinear Regression: Push Error Under One Pixel.** <br>
 **Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS). 2018* 
 
-- OpenSARShip 2.0: A large-volume dataset for deeper interpretation of ship targets in Sentinel-1 imagery <br>
+- **OpenSARShip 2.0: A large-volume dataset for deeper interpretation of ship targets in Sentinel-1 imagery** <br>
 **Boying Li**, Bin Liu, Lanqing Huang, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
 *SAR in Big Data Era: Models, Methods and Applications (BIGSARDATA). 2017* 
 
-- OpenSARShip: A dataset dedicated to Sentinel-1 ship interpretation <br>
+- **OpenSARShip: A dataset dedicated to Sentinel-1 ship interpretation** <br>
 Lanqing Huang, Bin Liu, **Boying Li**, Weiwei Guo, Wenhao Yu, Zenghui Zhang, Wenxian Yu <br>
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2017* 
 
