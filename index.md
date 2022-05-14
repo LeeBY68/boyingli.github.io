@@ -8,7 +8,6 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 
 ## Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
 
-![Image](assets/imgs/1.jpg)
 - TextSLAM: Visual SLAM with Planar Text Features<br>
 **Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
 *IEEE International Conference on Robotics and Automation (ICRA). 2020*
@@ -46,7 +45,7 @@ Lanqing Huang, Bin Liu, **Boying Li**, Weiwei Guo, Wenhao Yu, Zenghui Zhang, Wen
 - Chief Umpire [2018]: 2nd National Unmanned Aerial Vehicle Intelligent Sensing Technology Competition.
 
 ## Selected Honors
-- National Scholarship (2 times), Top $2\%$.
+- National Scholarship (2 times), Top 2%.
 - Second Prize of National Post-Graduate Mathematical Contest in Modeling.
 
 
