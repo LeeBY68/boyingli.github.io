@@ -34,8 +34,8 @@ Lanqing Huang, Bin Liu, **Boying Li**, Weiwei Guo, Wenhao Yu, Zenghui Zhang, Wen
 
 ## Academic Experience
 
-- 3D Computer Vision and Robot Perception &ensp; *2018* - *Now*
-
+- 3D Computer Vision &ensp; *2020* - *Now*
+- Robot Perception &ensp; *2018* - *Now*
 - Synthetic Aperture Radar (SAR) Remote Sensing Image Interpretation &ensp;*2016* - *2018*
 
 ## Teaching Assistant and Volunteer Experience
