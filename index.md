@@ -8,7 +8,7 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 
 ## Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
 
-- **TextSLAM: Visual SLAM with Planar Text Features** [paper](https://arxiv.org/abs/1912.05002)<br>
+- **TextSLAM: Visual SLAM with Planar Text Features** [[paper]](https://arxiv.org/abs/1912.05002)<br>
 **Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
 *IEEE International Conference on Robotics and Automation (ICRA). 2020*
 
