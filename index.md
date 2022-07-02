@@ -12,7 +12,7 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 **Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
 *IEEE International Conference on Robotics and Automation (ICRA). 2020*
 
-- **StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation**<br>
+- **StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation** [[paper]](https://arxiv.org/abs/2108.08574) <br>
 **Boying Li\***, Yuan Huang\*, Zeyu Liu, Danping Zou, Wenxian Yu <br>
 *IEEE International Conference on Computer Vision (ICCV). 2021*
 
@@ -20,15 +20,15 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 **Boying Li**, Danping Zou, Yuan Huang, Xinghan Niu, Ling Pei, Wenxian Yu <br>
 *IEEE Transactions on Robotics or IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).* 
 
-- **Ship Size Extraction for Sentinel-1 Images Based on Dual-Polarization Fusion and Nonlinear Regression: Push Error Under One Pixel** <br>
+- **Ship Size Extraction for Sentinel-1 Images Based on Dual-Polarization Fusion and Nonlinear Regression: Push Error Under One Pixel** [[paper]](https://ieeexplore.ieee.org/abstract/document/8392506/)<br>
 **Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS). 2018* 
 
-- **OpenSARShip 2.0: A large-volume dataset for deeper interpretation of ship targets in Sentinel-1 imagery** <br>
+- **OpenSARShip 2.0: A large-volume dataset for deeper interpretation of ship targets in Sentinel-1 imagery** [[paper]](https://ieeexplore.ieee.org/abstract/document/8124929) <br>
 **Boying Li**, Bin Liu, Lanqing Huang, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
 *SAR in Big Data Era: Models, Methods and Applications (BIGSARDATA). 2017* 
 
-- **OpenSARShip: A dataset dedicated to Sentinel-1 ship interpretation** <br>
+- **OpenSARShip: A dataset dedicated to Sentinel-1 ship interpretation** [[paper]](https://ieeexplore.ieee.org/abstract/document/8067489)<br>
 Lanqing Huang, Bin Liu, **Boying Li**, Weiwei Guo, Wenhao Yu, Zenghui Zhang, Wenxian Yu <br>
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2017* 
 
