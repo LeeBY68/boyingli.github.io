@@ -6,7 +6,7 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 
 [boyingli.fhyt@sjtu.edu.cn](boyingli.fhyt@sjtu.edu.cn)
 
-## Selected Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
+## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
 
 - **TextSLAM: Visual SLAM with Planar Text Features.** [[paper]](https://arxiv.org/abs/1912.05002)<br>
 **Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
@@ -16,7 +16,7 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 **Boying Li\***, Yuan Huang\*, Zeyu Liu, Danping Zou, Wenxian Yu <br>
 *IEEE International Conference on Computer Vision (ICCV). 2021*
 
-- **TextSLAM: Visual SLAM with Semantic Planar Text Features. (Under review)** <br>
+- **TextSLAM: Visual SLAM with Semantic Planar Text Features. (Major revision)** <br>
 **Boying Li**, Danping Zou, Yuan Huang, Xinghan Niu, Ling Pei, Wenxian Yu <br>
 *IEEE Transactions on Robotics or IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).* 
 
@@ -28,9 +28,17 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 **Boying Li**, Bin Liu, Lanqing Huang, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
 *SAR in Big Data Era: Models, Methods and Applications (BIGSARDATA). 2017* 
 
+- **Sentinel-1 双极化数据舰船目标几何特性提取.** [[paper]](https://d.wanfangdata.com.cn/periodical/kjdb201720015) <br>
+**李博颖**, 柳彬, 郭炜炜, 张增辉, 郁文贤 <br>
+*科技导报. 2017* 
+
 - **OpenSARShip: A dataset dedicated to Sentinel-1 ship interpretation.** [[paper]](https://ieeexplore.ieee.org/abstract/document/8067489)<br>
 Lanqing Huang, Bin Liu, **Boying Li**, Weiwei Guo, Wenhao Yu, Zenghui Zhang, Wenxian Yu <br>
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2017* 
+
+- **Ship Characterization and Analyses in Sentinel-1 Imagery Based on a Large and Open Dataset.** [[paper]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781351235822-11/ship-characterization-analyses-sentinel-1-imagery-based-large-open-dataset-lanqing-huang-boying-li-bin-liu-weiwei-guo-zenghui-zhang-wenxian-yu)<br>
+Lanqing Huang, **Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
+*Advances in SAR Remote Sensing of Oceans. 2018* 
 
 ## Academic Experience
 
