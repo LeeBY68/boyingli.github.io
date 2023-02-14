@@ -28,7 +28,7 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 **Boying Li**, Bin Liu, Lanqing Huang, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
 *SAR in Big Data Era: Models, Methods and Applications (BIGSARDATA). 2017* 
 
-- **Sentinel-1 双极化数据舰船目标几何特性提取.** [[paper]](https://d.wanfangdata.com.cn/periodical/kjdb201720015) <br>
+- **Sentinel-1 双极化数据舰船目标几何特性提取.** [[paper]](https://www.cnki.com.cn/Article/CJFDTOTAL-KJDB201720017.htm) <br>
 **李博颖**, 柳彬, 郭炜炜, 张增辉, 郁文贤 <br>
 *科技导报. 2017* 
 
