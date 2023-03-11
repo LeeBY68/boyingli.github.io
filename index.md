@@ -5,6 +5,7 @@ Prior to that, She received the B.E. degree from Northwestern Polytechnical Univ
 Her research interests include visual SLAM, 3D computer vision, robot perception. 
 
 [boyingli.fhyt@sjtu.edu.cn](boyingli.fhyt@sjtu.edu.cn)
+[LeeBY2016@outlook.com](LeeBY2016@outlook.com)
 
 ## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
 
