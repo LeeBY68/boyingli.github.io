@@ -17,7 +17,7 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 **Boying Li\***, Yuan Huang\*, Zeyu Liu, Danping Zou, Wenxian Yu <br>
 *IEEE International Conference on Computer Vision (ICCV). 2021*
 
-- **TextSLAM: Visual SLAM with Semantic Planar Text Features. (Major revision)** <br>
+- **TextSLAM: Visual SLAM with Semantic Planar Text Features. (Major revision)** [[paper]](https://arxiv.org/abs/2305.10029)<br>
 **Boying Li**, Danping Zou, Yuan Huang, Xinghan Niu, Ling Pei, Wenxian Yu <br>
 *IEEE Transactions on Robotics or IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).* 
 
