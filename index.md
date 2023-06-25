@@ -1,6 +1,7 @@
 ## Biography
 
-Boying Li is currently a Ph.D. student in Shanghai Jiao Tong University ([SJTU](https://en.sjtu.edu.cn/)), Shanghai, China, supervised by Prof. [Wenxian Yu](https://www.researchgate.net/profile/Wenxian-Yu) and Prof. [Danping Zou](https://drone.sjtu.edu.cn/dpzou/).
+Boying Li receive her Ph.D. degree from Shanghai Jiao Tong University ([SJTU](https://en.sjtu.edu.cn/)) in 2023, Shanghai, China, supervised by Prof. [Wenxian Yu](https://www.researchgate.net/profile/Wenxian-Yu) and Prof. [Danping Zou](https://drone.sjtu.edu.cn/dpzou/).
+She is the OUTSTANDING GRADUATE of Shanghai Jiao Tong University.
 Prior to that, She received the B.E. degree from Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)), Xi'an, China in 2016.
 Her research interests include visual SLAM, 3D computer vision, robot perception. 
 
