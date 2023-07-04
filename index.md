@@ -14,11 +14,11 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 **Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
 *IEEE International Conference on Robotics and Automation (ICRA). 2020*
 
-- **StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation.** [[paper]](https://arxiv.org/abs/2108.08574) <br>
+- **StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation.** [[paper]](https://arxiv.org/abs/2108.08574) [[project]](https://github.com/SJTU-ViSYS/StructDepth) <br>
 **Boying Li\***, Yuan Huang\*, Zeyu Liu, Danping Zou, Wenxian Yu <br>
 *IEEE International Conference on Computer Vision (ICCV). 2021*
 
-- **TextSLAM: Visual SLAM with Semantic Planar Text Features. (Major revision)** [[paper]](https://arxiv.org/abs/2305.10029)<br>
+- **TextSLAM: Visual SLAM with Semantic Planar Text Features. (Major revision)** [[paper]](https://arxiv.org/abs/2305.10029) [[project]](https://leeby68.github.io/TextSLAM/)<br>
 **Boying Li**, Danping Zou, Yuan Huang, Xinghan Niu, Ling Pei, Wenxian Yu <br>
 *IEEE Transactions on Robotics or IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).* 
 
