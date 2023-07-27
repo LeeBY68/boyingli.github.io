@@ -5,7 +5,7 @@ She is the **OUTSTANDING GRADUATE** of Shanghai Jiao Tong University.
 Prior to that, She received the B.E. degree from Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)), Xi'an, China in 2016.
 Her research interests include visual SLAM, 3D computer vision, robot perception. 
 
-[boyingli.fhyt@sjtu.edu.cn](boyingli.fhyt@sjtu.edu.cn)
+[liboying.fhyt@sjtu.edu.cn](liboying.fhyt@sjtu.edu.cn)
 [LeeBY2016@outlook.com](LeeBY2016@outlook.com)
 
 ## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
@@ -55,6 +55,7 @@ Lanqing Huang, **Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br
 - Chief Umpire [2018]: 2nd National Unmanned Aerial Vehicle Intelligent Sensing Technology Competition.
 
 ## Selected Honors
+- OUTSTANDING GRADUATE of Shanghai Jiao Tong University.
 - National Scholarship (2 times), Top 2%.
 - Second Prize of National Post-Graduate Mathematical Contest in Modeling.
 
