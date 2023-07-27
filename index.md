@@ -8,7 +8,7 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 [liboying.fhyt@sjtu.edu.cn](liboying.fhyt@sjtu.edu.cn)
 [LeeBY2016@outlook.com](LeeBY2016@outlook.com)
 
-[CV](pdf/resume_BoyingLi.pdf)
+[Boying Li's CV](pdf/resume_BoyingLi.pdf)
 
 ## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
 
