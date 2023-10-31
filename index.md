@@ -14,7 +14,7 @@ Her research interests include visual SLAM, 3D computer vision, robot perception
 
 - **TextSLAM: Visual SLAM with Semantic Planar Text Features.** [[paper]](https://arxiv.org/abs/2305.10029) [[project]](https://leeby68.github.io/TextSLAM/)<br>
 **Boying Li**, Danping Zou, Yuan Huang, Xinghan Niu, Ling Pei, Wenxian Yu <br>
-*IEEE Transactions on Robotics or IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2023* 
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2023* 
 
 - **TextSLAM: Visual SLAM with Planar Text Features.** [[paper]](https://arxiv.org/abs/1912.05002)<br>
 **Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
