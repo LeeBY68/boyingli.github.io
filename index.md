@@ -6,7 +6,12 @@ Prior to that, She received the B.E. degree from Northwestern Polytechnical Univ
 Her research interests include 3D computer vision and robotics, particularly focusing on SLAM (Simultaneous Localization And Mapping), 3D reconstruction, Depth estimation.
 <!-- <p>([NWPU](https://en.nwpu.edu.cn/))</p> -->
 
-**Contact:** [boying.li@monash.edu](boying.li@monash.edu)
+**Contact:** 
+
+:envelope: [boying.li@monash.edu](boying.li@monash.edu)
+🔗 [Linkedin](https://www.linkedin.com/in/boying-li-8006082b8/)
+🌏 [Twitter](https://twitter.com/BoyingLi_LBY)
+
 
 ## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
 
