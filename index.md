@@ -45,7 +45,7 @@ Lanqing Huang, **Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br
 ## Academic Experience
 
 - 3D Computer Vision &ensp; *2020* - *Now*
-- Robot Perception &ensp; *2018* - *Now*
+- Intelligent Robotics &ensp; *2018* - *Now*
 - Synthetic Aperture Radar (SAR) Remote Sensing Image Interpretation &ensp;*2016* - *2018*
 
 ## Teaching Assistant and Volunteer Experience
@@ -57,7 +57,7 @@ Lanqing Huang, **Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br
 ## Selected Honors
 - OUTSTANDING GRADUATE of Shanghai Jiao Tong University.
 - National Scholarship (2 times), Top 2%.
-- Second Prize of National Post-Graduate Mathematical Contest in Modeling.
+- Second Prize of National Mathematical Modeling Contest.
 
 
 
