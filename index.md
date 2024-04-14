@@ -8,7 +8,7 @@ Her research interests include 3D computer vision and robotics, particularly foc
 
 **Contact:** 
 
-:envelope: [boying.li@monash.edu](boying.li@monash.edu)
+✉️ [boying.li@monash.edu](boying.li@monash.edu)
 🔗 [Linkedin](https://www.linkedin.com/in/boying-li-8006082b8/)
 🌏 [Twitter](https://twitter.com/BoyingLi_LBY)
 
