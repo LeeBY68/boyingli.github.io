@@ -30,9 +30,9 @@ Her research interests include 3D computer vision and robotics, particularly foc
 **Boying Li**, Bin Liu, Lanqing Huang, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
 *SAR in Big Data Era: Models, Methods and Applications (BIGSARDATA). 2017* 
 
-- **Sentinel-1 双极化数据舰船目标几何特性提取.** [[Paper]](https://www.cnki.com.cn/Article/CJFDTOTAL-KJDB201720017.htm) <br>
-**李博颖**, 柳彬, 郭炜炜, 张增辉, 郁文贤 <br>
-*科技导报. 2017* 
+- **Ship Geometric Information Extraction for Sentinel-1 Dual-Polarization Images.** [[Paper]](https://www.cnki.com.cn/Article/CJFDTOTAL-KJDB201720017.htm) <br>
+**Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang and Wenxian Yu <br>
+*Science and Technology Review. 2017*
 
 - **OpenSARShip: A dataset dedicated to Sentinel-1 ship interpretation.** [[Paper]](https://ieeexplore.ieee.org/abstract/document/8067489)<br>
 Lanqing Huang, Bin Liu, **Boying Li**, Weiwei Guo, Wenhao Yu, Zenghui Zhang, Wenxian Yu <br>
