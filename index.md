@@ -1,28 +1,26 @@
 ## Biography
 
-Boying Li receive her Ph.D. degree from Shanghai Jiao Tong University ([SJTU](https://en.sjtu.edu.cn/)) in 2023, Shanghai, China, supervised by Prof. [Wenxian Yu](https://www.researchgate.net/profile/Wenxian-Yu) and Prof. [Danping Zou](https://drone.sjtu.edu.cn/dpzou/).
-She is the **OUTSTANDING GRADUATE** of Shanghai Jiao Tong University.
-Prior to that, She received the B.E. degree from Northwestern Polytechnical University ([NWPU](https://en.nwpu.edu.cn/)), Xi'an, China in 2016.
-Her research interests include visual SLAM, 3D computer vision, robot perception. 
+Boying Li currently serves as a Research Fellow at Monash University in Melbourne, Australia. She obtained her Ph.D. degree from Shanghai Jiao Tong University ([SJTU](https://en.sjtu.edu.cn/)) in 2023, Shanghai, China, under the supervision of Prof. [Wenxian Yu](https://www.researchgate.net/profile/Wenxian-Yu) and Prof. [Danping Zou](https://drone.sjtu.edu.cn/dpzou/).
+She was the **OUTSTANDING GRADUATE** of Shanghai Jiao Tong University.
+Prior to that, She received the B.E. degree from Northwestern Polytechnical University, Xi'an, China in 2016.  
+Her research interests include 3D computer vision and robotics, particularly focusing on SLAM (Simultaneous Localization And Mapping), 3D reconstruction, Depth estimation.
+<!-- <p>([NWPU](https://en.nwpu.edu.cn/))</p> -->
 
-[liboying.fhyt@sjtu.edu.cn](liboying.fhyt@sjtu.edu.cn)
-[LeeBY2016@outlook.com](LeeBY2016@outlook.com)
-
-[Boying Li's CV](pdf/resume_BoyingLi.pdf)
+**Contact:** [boying.li@monash.edu](boying.li@monash.edu)
 
 ## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
 
-- **TextSLAM: Visual SLAM with Semantic Planar Text Features.** [[paper]](https://arxiv.org/abs/2305.10029) [[project]](https://leeby68.github.io/TextSLAM/)<br>
+- **TextSLAM: Visual SLAM with Semantic Planar Text Features.** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10285400) [[Code]](https://github.com/SJTU-ViSYS/TextSLAM) [[Dataset]](https://github.com/SJTU-ViSYS/TextSLAM-Dataset/) [[Evaluation tool]](https://github.com/SJTU-ViSYS/SLAM_Evaluation/) <br>
 **Boying Li**, Danping Zou, Yuan Huang, Xinghan Niu, Ling Pei, Wenxian Yu <br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2023* 
-
-- **TextSLAM: Visual SLAM with Planar Text Features.** [[paper]](https://arxiv.org/abs/1912.05002)<br>
-**Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
-*IEEE International Conference on Robotics and Automation (ICRA). 2020*
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2023*
 
 - **StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation.** [[paper]](https://arxiv.org/abs/2108.08574) [[project]](https://github.com/SJTU-ViSYS/StructDepth) <br>
 **Boying Li\***, Yuan Huang\*, Zeyu Liu, Danping Zou, Wenxian Yu <br>
 *IEEE International Conference on Computer Vision (ICCV). 2021*
+
+- **TextSLAM: Visual SLAM with Planar Text Features.** [[paper]](https://arxiv.org/abs/1912.05002)<br>
+**Boying Li**, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu <br>
+*IEEE International Conference on Robotics and Automation (ICRA). 2020*
 
 - **Ship Size Extraction for Sentinel-1 Images Based on Dual-Polarization Fusion and Nonlinear Regression: Push Error Under One Pixel.** [[paper]](https://ieeexplore.ieee.org/abstract/document/8392506/)<br>
 **Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br>
