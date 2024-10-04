@@ -1,10 +1,12 @@
 ## Biography
 
-Boying Li currently serves as a Research Fellow at Monash University in Melbourne, Australia. She obtained her Ph.D. degree from Shanghai Jiao Tong University ([SJTU](https://en.sjtu.edu.cn/)) in 2023, Shanghai, China, under the supervision of Prof. [Wenxian Yu](https://www.researchgate.net/profile/Wenxian-Yu) and Prof. [Danping Zou](https://drone.sjtu.edu.cn/dpzou/).
+Boying Li currently serves as a Research Fellow at Monash University in Melbourne, Australia, cooperate with Prof. [Hamid Rezatofighi](https://scholar.google.com/citations?hl=en&user=VxAuxMwAAAAJ). She obtained her Ph.D. degree from Shanghai Jiao Tong University ([SJTU](https://en.sjtu.edu.cn/)) in 2023, Shanghai, China, under the supervision of Prof. [Wenxian Yu](https://www.researchgate.net/profile/Wenxian-Yu) and Prof. [Danping Zou](https://drone.sjtu.edu.cn/dpzou/).
 She was the **OUTSTANDING GRADUATE** of Shanghai Jiao Tong University.
 Prior to that, She received the B.E. degree from Northwestern Polytechnical University, Xi'an, China in 2016.  
-Her research interests include 3D computer vision and robotics, particularly focusing on SLAM (Simultaneous Localization And Mapping), 3D reconstruction, Depth estimation.
-<!-- <p>([NWPU](https://en.nwpu.edu.cn/))</p> -->
+Her research interests include 3D computer vision, robotics, Embodied AI, Generative AI, including SLAM (Simultaneous Localization And Mapping), 3D reconstruction.
+
+**OPEN TO COLLABORATION** with undergraduate, graduate students, and researchers, reach out via email at [boying.li@monash.edu](boying.li@monash.edu).
+
 
 **Contact:** 
 
@@ -15,6 +17,10 @@ Her research interests include 3D computer vision and robotics, particularly foc
 
 
 ## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=hYrcIe0AAAAJ&hl=zh-CN&oi=ao)
+
+- **Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting.** [[Paper]](https://arxiv.org/abs/2409.12518) <br>
+**Boying Li**, Zhixi, Cai, Yuan-Fang Li, Ian Reid, and Hamid Rezatofighi <br>
+*Arxiv. 2024*
 
 - **TextSLAM: Visual SLAM with Semantic Planar Text Features.** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10285400) [[Code]](https://github.com/SJTU-ViSYS/TextSLAM) [[Dataset]](https://github.com/SJTU-ViSYS/TextSLAM-Dataset/) [[Evaluation tool]](https://github.com/SJTU-ViSYS/SLAM_Evaluation/) <br>
 **Boying Li**, Danping Zou, Yuan Huang, Xinghan Niu, Ling Pei, Wenxian Yu <br>
@@ -50,16 +56,19 @@ Lanqing Huang, **Boying Li**, Bin Liu, Weiwei Guo, Zenghui Zhang, Wenxian Yu <br
 
 ## Academic Experience
 
+- Advanced Neuro Symbolic Learning and Reasoning &ensp; *2023* - *Now*
 - 3D Computer Vision &ensp; *2020* - *Now*
 - Intelligent Robotics &ensp; *2018* - *Now*
-- Synthetic Aperture Radar (SAR) Remote Sensing Image Interpretation &ensp;*2016* - *2018*
+- Synthetic Aperture Radar (SAR) Remote Sensing Image Interpretation &ensp; *2016* - *2018*
 
 ## Reviewer Experiences
 
-- IEEE International Conference on Robotics and Automation (ICRA)
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
 - The European Conference on Computer Vision (ECCV)
+- Conference and Workshop on Neural Information Processing Systems (NeurIPS)
+- IEEE International Conference on Robotics and Automation (ICRA)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- IEEE Robotics and Automation Letters (RA-L)
 
 ## Teaching Assistant and Volunteer Experience
 
